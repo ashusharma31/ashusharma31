@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I am a Senior Student at Chitkara University. Android | DS-Algog
+
+## Crunching The Numbers
+[![Ashu's github stats](https://github-readme-stats.vercel.app/api?username=ashusharma31&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ashusharma31/ashusharma31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
